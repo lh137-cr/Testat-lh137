@@ -1,0 +1,25 @@
+id,name_short,name,type,sex,birth,position,education,subject,party,religion,kids,twitter,instagram,facebook,youtube
+fb,Brantner,Franziska Brantner,0,1,1979,0,1,2,2,NA,1,14052,4479,2748,26
+jb,Brandenburg,Jens Brandenburg,0,2,1986,0,1,1,3,NA,NA,5407,3329,NA,NA
+ft,Toncar,Florian Toncar,0,2,1979,0,1,0,3,2,3,8599,3071,4477,99
+ck,Kuehn,Christian Kuehn,0,2,1979,0,2,1,2,2,3,4829,1663,100,35
+B90,Gruene,Bündnis 90/die Gruenen,1,NA,1980,NA,NA,NA,NA,NA,NA,54500,226000,229000,24800
+FDP,FDP,Freie Demokratische Partei,1,NA,1948,NA,NA,NA,NA,NA,NA,404000,157000,169000,20200
+SPD,SPD,Sozial-Demokratische Partei Deutschland,1,NA,1863,NA,NA,NA,NA,NA,NA,203000,92700,215000,NA
+EP,Eu Parlament,Europäisches Parlament,1,NA,1952,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SWR,SWR,Südwestrundfunk,1,NA,NA,NA,NA,NA,NA,NA,NA,15500,262000,356000,277000
+rs,Schwarzelühr-Sutter,Rita Schwarzelühr-Sutter,0,1,1962,0,3,3,1,1,2,4253,1536,2943,17
+tl,Lindner,Tobias Lindner,0,2,1982,1,4,4,2,NA,1,10500,3609,4921,NA
+bs,Strasser,Benjamin Strasser,0,2,1987,0,0,0,3,1,0,5815,3936,NA,288
+co,Oezdemir,Cem Oezdemir,0,2,1965,2,2,5,2,3,2,317000,105000,NA,NA
+mt,Theurer,Michael A. Theurer,0,2,1967,0,4,6,3,2,2,8482,3745,NA,NA
+T,Tuebingen,Tuebingen,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+EU,Europ. Union,Europäische Union,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ES,EUROSOLAR,Europäische Vereinigung für Erneuerbare Energien e. V. ,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,Mannheim,Mannheim,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+USA,USA,Vereinigte Staaten von Amerika,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+B,Berlin,Berlin,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+DSW,DSW,Deutsches Studienwerk e. V. ,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+LiSL,LiSL,Liberaler Schwulen und Lesben Verband,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Z,Zuerich,Zuerich,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+EUP,EU Parlamentiergruppe,Europa-Union-Parlamentiergruppe im Europäischen Parlament,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
