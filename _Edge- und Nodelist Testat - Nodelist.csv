@@ -1,0 +1,37 @@
+id,name_short,name,type,sex,birth,position,education,subject,party,religion,kids,twitter,instagram,facebook,youtube
+fb,Brantner,Franziska Brantner,0,1,1979,0,1,2,2,,1,14052,4479,2748,26
+jb,Brandenburg,Jens Brandenburg,0,2,1986,0,1,1,3,,,5407,3329,,
+ft,Toncar,Florian Toncar,0,2,1979,0,1,0,3,2,3,8599,3071,4477,99
+ck,Kuehn,Christian Kuehn,0,2,1979,0,2,1,2,2,3,4829,1663,100,35
+B90,Gruene,Bündnis 90/die Gruenen,1,,1980,,,,,,,54500,226000,229000,24800
+FDP,FDP,Freie Demokratische Partei,1,,1948,,,,,,,404000,157000,169000,20200
+SPD,SPD,Sozial-Demokratische Partei Deutschland,1,,1863,,,,,,,203000,92700,215000,
+EP,Eu Parlament,Europäisches Parlament,1,,1952,,,,,,,,,,
+SWR,SWR,Südwestrundfunk,1,,,,,,,,,15500,262000,356000,277000
+rs,Schwarzelühr-Sutter,Rita Schwarzelühr-Sutter,0,1,1962,0,3,3,1,1,2,4253,1536,2943,17
+tl,Lindner,Tobias Lindner,0,2,1982,1,4,4,2,,1,10500,3609,4921,
+bs,Strasser,Benjamin Strasser,0,2,1987,0,0,0,3,1,0,5815,3936,,288
+co,Oezdemir,Cem Oezdemir,0,2,1965,2,2,5,2,3,2,317000,105000,,
+mt,Theurer,Michael A. Theurer,0,2,1967,0,4,6,3,2,2,8482,3745,,
+T,Tuebingen,Tuebingen,1,,,,,,,,,,,,
+EU,Europ. Union,Europäische Union,1,,,,,,,,,,,,
+ES,EUROSOLAR,Europäische Vereinigung für Erneuerbare Energien e. V. ,1,,,,,,,,,,,,
+M,Mannheim,Mannheim,1,,,,,,,,,,,,
+USA,USA,Vereinigte Staaten von Amerika,1,,,,,,,,,,,,
+B,Berlin,Berlin,1,,,,,,,,,,,,
+DSW,DSW,Deutsches Studienwerk e. V. ,1,,,,,,,,,,,,
+LiSL,LiSL,Liberaler Schwulen und Lesben Verband,1,,,,,,,,,,,,
+Z,Zuerich,Zuerich,1,,,,,,,,,,,,
+EUP,EU Parlamentiergruppe,Europa-Union-Parlamentiergruppe im Europäischen Parlament,1,,,,,,,,,,,,
+FNS,FNS,Friedrich Neumann Stiftung,1,,,,,,,,,,,,
+KfWA,KfWA,Kreditanstalt für Wiederaufbau,1,,,,,,,,,,,,
+SspF,SspF,Gesellschaft zum Studium strukturpolitischer Fragen e. V.,1,,,,,,,,,,,,
+THS,THS,Theodor-Heuss-Stiftun,1,,,,,,,,,,,,
+BWK,BWK,Bundesministerium für Wirtschaft und Klimaschutz,1,,,,,,,,,,,,
+BF,BF,Bundesministerium für Finanzen,1,,,,,,,,,,,,
+BUN,BUN,"Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit",1,,,,,,,,,,,,
+AA,AA,Auswärtiges Amt,1,,,,,,,,,,,,
+BJ,BJ,Bundesministerium der Justiz,1,,,,,,,,,,,,
+BME,BME,Bundesministerium für Ernährung,1,,,,,,,,,,,,
+BDV,BDV,Bundesministerium für Digitales und Verkehr,1,,,,,,,,,,,,
+BBF,BBF,Bundesministerium für Bildung und Forschung,1,,,,,,,,,,,,
