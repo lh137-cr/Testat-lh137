@@ -1,11 +1,11 @@
-id ,name_short,name ,type ,sex,birth ,position,education,subject ,party,religion,kids,twitter,instagram,facebook,youtube
+id,name_short,name,type,sex,birth,position,education,subject,party,religion,kids,twitter,instagram,facebook,youtube
 ft,Toncar,Florian Toncar,0,2,1979,1,5,3,4,3,3,8.599,3.071,4.477,99
-bs ,Strasser,Benjamin Strasser ,0,2,1987,1,4,3,4,2,0,5.815,3.936,3.386,288
-mt,Theurer,Micheal Theurer,0,2,1967,1,4,3,4,3,2,8.481,3.745,27.911,NA
-jb,Brandenburg,Jens Brandenburg,0,2,1986,1,5,3,4,NA,0,5.411,3.330,NA,NA
-ck,Kühn,Chris Kühn ,0,2,1979,1,4,2,3,NA,3,4.830,1.662,NA,35
-fb,Branter,Franziska Brantner,0,1,1979,1,5,2,3,NA,1,14.054,4.483,2.748,26
-coe,Oezdemir,Cem Oedzemir ,0,2,1965,3,4,2,3,NA,2,317.810,105.000,162.551,NA
+bs ,Strasser,Benjamin Strasser,0,2,1987,1,4,3,4,2,0,5815,3936,3386,288
+mt,Theurer,Micheal Theurer,0,2,1967,1,4,3,4,3,2,8.481,3745,27911,NA
+jb,Brandenburg,Jens Brandenburg,0,2,1986,1,5,3,4,NA,0,5411,3330,NA,NA
+ck,Kühn,Chris Kühn,0,2,1979,1,4,2,3,NA,3,4830,1662,NA,35
+fb,Branter,Franziska Brantner,0,1,1979,1,5,2,3,NA,1,14054,4.483,2748,26
+coe,Oezdemir,Cem Oedzemir,0,2,1965,3,4,2,3,NA,2,317810,105000,162551,NA
 tl,Lindner,Tobias Lindner ,0,2,1982,3,5,3,3,NA,NA,10.578,3.617,4.920,NA
 rss,Schwarzeluehr Sutter,Rita Schwarzeluehr Sutter,0,1,1962,1,4,3,2,2,2,4.254,1.540,2.942,NA
 FDP,FDP,FDP ,1,NA,NA,NA,NA,NA,NA,NA,NA,404338,175000,169703,20200
