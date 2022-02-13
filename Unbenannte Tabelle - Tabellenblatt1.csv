@@ -1,10 +1,10 @@
-id,to,realtion,year
+id,to,relationship,year
 ft,bs,2,2022
 ft,mt,2,2022
 ft,jb,2,2022
-bs ,jb,2,2022
-bs ,ft,2,2022
-bs ,mt,2,2022
+bs,jb,2,2022
+bs,ft,2,2022
+bs,mt,2,2022
 mt,bs,2,2022
 mt,ft,2,2022
 mt,jb,2,2022
@@ -25,8 +25,8 @@ tl,coe,2,2022
 tl,fb,2,2022
 ft,FDP,2,2022
 ft,Julis,2,2022
-bs ,FDP,2,2022
-bs ,Julis,2,2022
+bs,FDP,2,2022
+bs,Julis,2,2022
 mt,FDP,2,2022
 mt,Julis,2,2022
 jb,FDP,2,2022
@@ -73,6 +73,6 @@ TUE,ck,7,2022
 IPP,fb,7,2022
 CUNW,fb,7,2022
 EFfSR,coe,7,2022
-TH KA,tl,7,2022
+THKA,tl,7,2022
 FR,rss,7,2022
 ZU,rss,7,2022
